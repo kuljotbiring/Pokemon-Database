@@ -1,1 +1,1 @@
-# Pokemon-Database
+# CS340 Group Project
